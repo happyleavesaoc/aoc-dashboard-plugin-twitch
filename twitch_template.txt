@@ -1,0 +1,15 @@
+[Core]
+Name = Twitch
+Module = twitch
+
+[Documentation]
+Author = HappyLeaves
+Version = 1.0
+Website = 
+Description = Dashboard interfaces with Twitch
+
+[Configuration]
+channel = 
+oauth = 
+prefix = 
+suffix =
